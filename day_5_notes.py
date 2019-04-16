@@ -8,6 +8,9 @@ for x in items:
 str_items = d[str]
 print(str_items)
 
+# adding a function to sum 2 numbers
+def sum(a,b):
+    return a+b
 
 def sortByStrings(s, t):
     result = []
